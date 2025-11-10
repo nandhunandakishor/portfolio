@@ -50,10 +50,6 @@ function Contact() {
             </a>
           </div>
           <div className="flex items-center gap-3">
-            <FaPhone className="text-green-400 text-2xl" />
-            <span>+91 9544461390</span>
-          </div>
-          <div className="flex items-center gap-3">
             <FaMapMarkerAlt className="text-red-400 text-2xl" />
             <span>Vadakara, Kerala, India</span>
           </div>
